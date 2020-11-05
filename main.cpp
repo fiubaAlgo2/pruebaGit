@@ -8,5 +8,5 @@ using namespace std;
 
 int main(){
 
-    cout << "Hola" << endl;
+    cout << "Otra cosa" << endl;S
 }
