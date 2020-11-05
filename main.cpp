@@ -7,9 +7,7 @@
 using namespace std;
 
 int main(){
-    cout << "Hola" << endl;
-    cout << "Blas" << endl;
-    cout << "Chau" << endl;
+    int b = 3;
     int a = 5;
     cout << a << endl;
 }
