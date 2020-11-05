@@ -8,6 +8,6 @@ using namespace std;
 
 int main(){
     cout << "Hola" << endl;
-    cout << "Bla" << endl;
+    cout << "Blas" << endl;
     cout << "Chau" << endl;
 }
